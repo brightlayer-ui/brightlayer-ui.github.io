@@ -1,12 +1,11 @@
-# Doc-It (a.k.a. pxblue.etn.com)
+# Doc-It (a.k.a. pxblue.github.io)
 Doc-It is the source code for the pxblue.etn.com documentation site for Power Xpert Blue 2.0. The site is built to both provide documentation on how to use the system, but also as an example of how to use it. The entire site is using using the PX Blue design system - built with React+Redux and Material UI.
 
 ## Contributing
-To contribute to the documentation site, you will need to clone a local copy of the repository (using SSH or HTTP):
+To contribute to the documentation site, you will need to clone a local copy of the repository:
 
 ```
-git clone ssh://git@esgit.tcc.etn.com:7999/blue/doc-it.git
-git clone http://EXXXXXXX@esgit.tcc.etn.com:7990/scm/blue/doc-it.git
+git clone https://github.com/pxblue/pxblue.github.io
 ```
 
 You can then install the necessary dependencies and run a local instance with the following commands:
