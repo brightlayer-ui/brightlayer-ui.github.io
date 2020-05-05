@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/static/css/main.1aa47494.chunk.css",
-    "main.js": "/static/js/main.c7f0d67e.chunk.js",
-    "main.js.map": "/static/js/main.c7f0d67e.chunk.js.map",
+    "main.js": "/static/js/main.317f38b9.chunk.js",
+    "main.js.map": "/static/js/main.317f38b9.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.fc3a4378.js",
     "runtime-main.js.map": "/static/js/runtime-main.fc3a4378.js.map",
     "static/css/2.2f50633a.chunk.css": "/static/css/2.2f50633a.chunk.css",
-    "static/js/2.36c244f9.chunk.js": "/static/js/2.36c244f9.chunk.js",
-    "static/js/2.36c244f9.chunk.js.map": "/static/js/2.36c244f9.chunk.js.map",
+    "static/js/2.848079c6.chunk.js": "/static/js/2.848079c6.chunk.js",
+    "static/js/2.848079c6.chunk.js.map": "/static/js/2.848079c6.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.7103ee111cc0aaf3bce17af59c24c059.js": "/precache-manifest.7103ee111cc0aaf3bce17af59c24c059.js",
+    "precache-manifest.59580ba893865f81e1d5c25914a47c37.js": "/precache-manifest.59580ba893865f81e1d5c25914a47c37.js",
     "service-worker.js": "/service-worker.js",
     "static/css/2.2f50633a.chunk.css.map": "/static/css/2.2f50633a.chunk.css.map",
     "static/css/main.1aa47494.chunk.css.map": "/static/css/main.1aa47494.chunk.css.map",
-    "static/js/2.36c244f9.chunk.js.LICENSE": "/static/js/2.36c244f9.chunk.js.LICENSE",
+    "static/js/2.848079c6.chunk.js.LICENSE": "/static/js/2.848079c6.chunk.js.LICENSE",
     "static/media/action-list-item-action.png": "/static/media/action-list-item-action.117d57ba.png",
     "static/media/action-list-overlay.png": "/static/media/action-list-overlay.d8320c64.png",
     "static/media/action-list.png": "/static/media/action-list.c66d4b92.png",
@@ -70,15 +70,16 @@
     "static/media/themes.png": "/static/media/themes.cdb28dff.png",
     "static/media/type-scale.png": "/static/media/type-scale.52163d4a.png",
     "static/media/typography.png": "/static/media/typography.12d8ba71.png",
-    "static/media/web-internationalization-arabic.png": "/static/media/web-internationalization-arabic.f112babd.png",
-    "static/media/web-internationalization-english.png": "/static/media/web-internationalization-english.33f1c8dd.png",
-    "static/media/web-internationalization-spanish.png": "/static/media/web-internationalization-spanish.474276c2.png"
+    "static/media/web-internationalization-arabic.png": "/static/media/web-internationalization-arabic.287a77d8.png",
+    "static/media/web-internationalization-chinese.png": "/static/media/web-internationalization-chinese.ea989654.png",
+    "static/media/web-internationalization-english.png": "/static/media/web-internationalization-english.3f58c1b8.png",
+    "static/media/web-internationalization-spanish.png": "/static/media/web-internationalization-spanish.3021b701.png"
   },
   "entrypoints": [
     "static/js/runtime-main.fc3a4378.js",
     "static/css/2.2f50633a.chunk.css",
-    "static/js/2.36c244f9.chunk.js",
+    "static/js/2.848079c6.chunk.js",
     "static/css/main.1aa47494.chunk.css",
-    "static/js/main.c7f0d67e.chunk.js"
+    "static/js/main.317f38b9.chunk.js"
   ]
 }
