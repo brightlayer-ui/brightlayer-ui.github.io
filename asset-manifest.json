@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/static/css/main.6f0e7d50.chunk.css",
-    "main.js": "/static/js/main.f6f1880a.chunk.js",
-    "main.js.map": "/static/js/main.f6f1880a.chunk.js.map",
+    "main.js": "/static/js/main.66ff4566.chunk.js",
+    "main.js.map": "/static/js/main.66ff4566.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.32dacd70.js",
     "runtime-main.js.map": "/static/js/runtime-main.32dacd70.js.map",
     "static/css/2.2f50633a.chunk.css": "/static/css/2.2f50633a.chunk.css",
-    "static/js/2.8b35c60c.chunk.js": "/static/js/2.8b35c60c.chunk.js",
-    "static/js/2.8b35c60c.chunk.js.map": "/static/js/2.8b35c60c.chunk.js.map",
+    "static/js/2.41645e2d.chunk.js": "/static/js/2.41645e2d.chunk.js",
+    "static/js/2.41645e2d.chunk.js.map": "/static/js/2.41645e2d.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.e5412118b4494032063ac5736264be42.js": "/precache-manifest.e5412118b4494032063ac5736264be42.js",
+    "precache-manifest.08d40cff5c8c801b6633a2421f12b0fd.js": "/precache-manifest.08d40cff5c8c801b6633a2421f12b0fd.js",
     "service-worker.js": "/service-worker.js",
     "static/css/2.2f50633a.chunk.css.map": "/static/css/2.2f50633a.chunk.css.map",
     "static/css/main.6f0e7d50.chunk.css.map": "/static/css/main.6f0e7d50.chunk.css.map",
-    "static/js/2.8b35c60c.chunk.js.LICENSE.txt": "/static/js/2.8b35c60c.chunk.js.LICENSE.txt",
+    "static/js/2.41645e2d.chunk.js.LICENSE.txt": "/static/js/2.41645e2d.chunk.js.LICENSE.txt",
     "static/media/accept-eula.png": "/static/media/accept-eula.1174fdef.png",
     "static/media/account-details.png": "/static/media/account-details.816e8b5c.png",
     "static/media/action-button-as-button.png": "/static/media/action-button-as-button.9f9b598d.png",
@@ -154,6 +154,7 @@
     "static/media/notification-buckets-2.png": "/static/media/notification-buckets-2.a401b7ca.png",
     "static/media/notification-list-desktop.png": "/static/media/notification-list-desktop.22d05626.png",
     "static/media/notification-list-mobile.png": "/static/media/notification-list-mobile.8ea8013f.png",
+    "static/media/noto-sans-cjk-sc.png": "/static/media/noto-sans-cjk-sc.5f1aa8ae.png",
     "static/media/index.css": "/static/media/roboto-mono-latin-700italic.b933305e.woff",
     "static/media/overlay-banner.svg": "/static/media/overlay-banner.2f7efcb5.svg",
     "static/media/overlay-spinner.png": "/static/media/overlay-spinner.a00a9b00.png",
@@ -226,8 +227,8 @@
   "entrypoints": [
     "static/js/runtime-main.32dacd70.js",
     "static/css/2.2f50633a.chunk.css",
-    "static/js/2.8b35c60c.chunk.js",
+    "static/js/2.41645e2d.chunk.js",
     "static/css/main.6f0e7d50.chunk.css",
-    "static/js/main.f6f1880a.chunk.js"
+    "static/js/main.66ff4566.chunk.js"
   ]
 }
