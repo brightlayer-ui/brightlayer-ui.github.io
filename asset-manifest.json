@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.158eb0af.chunk.css",
-    "main.js": "/static/js/main.cfcbf3e0.chunk.js",
-    "main.js.map": "/static/js/main.cfcbf3e0.chunk.js.map",
+    "main.js": "/static/js/main.af984626.chunk.js",
+    "main.js.map": "/static/js/main.af984626.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.58bb364f.js",
     "runtime-main.js.map": "/static/js/runtime-main.58bb364f.js.map",
     "static/css/2.e7e429ac.chunk.css": "/static/css/2.e7e429ac.chunk.css",
@@ -173,6 +173,7 @@
     "static/media/internationalization.4debf12e.svg": "/static/media/internationalization.4debf12e.svg",
     "static/media/invite-to-landscape-countdown.44f5cc4b.gif": "/static/media/invite-to-landscape-countdown.44f5cc4b.gif",
     "static/media/invite-to-landscape-x.687cf278.png": "/static/media/invite-to-landscape-x.687cf278.png",
+    "static/media/joao-mota.85792714.jpg": "/static/media/joao-mota.85792714.jpg",
     "static/media/join-an-organization-desktop.18fecf65.png": "/static/media/join-an-organization-desktop.18fecf65.png",
     "static/media/joseph-boyle.0cfd0242.png": "/static/media/joseph-boyle.0cfd0242.png",
     "static/media/kwanzaa-appbar-tile.1b32e646.png": "/static/media/kwanzaa-appbar-tile.1b32e646.png",
@@ -379,6 +380,6 @@
     "static/css/2.e7e429ac.chunk.css",
     "static/js/2.d7afcc18.chunk.js",
     "static/css/main.158eb0af.chunk.css",
-    "static/js/main.cfcbf3e0.chunk.js"
+    "static/js/main.af984626.chunk.js"
   ]
 }
