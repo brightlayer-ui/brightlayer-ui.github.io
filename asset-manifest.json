@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.158eb0af.chunk.css",
-    "main.js": "/static/js/main.af984626.chunk.js",
-    "main.js.map": "/static/js/main.af984626.chunk.js.map",
+    "main.js": "/static/js/main.5331b4de.chunk.js",
+    "main.js.map": "/static/js/main.5331b4de.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.58bb364f.js",
     "runtime-main.js.map": "/static/js/runtime-main.58bb364f.js.map",
     "static/css/2.e7e429ac.chunk.css": "/static/css/2.e7e429ac.chunk.css",
-    "static/js/2.d7afcc18.chunk.js": "/static/js/2.d7afcc18.chunk.js",
-    "static/js/2.d7afcc18.chunk.js.map": "/static/js/2.d7afcc18.chunk.js.map",
+    "static/js/2.ad03bbcf.chunk.js": "/static/js/2.ad03bbcf.chunk.js",
+    "static/js/2.ad03bbcf.chunk.js.map": "/static/js/2.ad03bbcf.chunk.js.map",
     "index.html": "/index.html",
     "static/css/2.e7e429ac.chunk.css.map": "/static/css/2.e7e429ac.chunk.css.map",
     "static/css/main.158eb0af.chunk.css.map": "/static/css/main.158eb0af.chunk.css.map",
-    "static/js/2.d7afcc18.chunk.js.LICENSE.txt": "/static/js/2.d7afcc18.chunk.js.LICENSE.txt",
+    "static/js/2.ad03bbcf.chunk.js.LICENSE.txt": "/static/js/2.ad03bbcf.chunk.js.LICENSE.txt",
     "static/media/accept-eula.818e65fb.png": "/static/media/accept-eula.818e65fb.png",
     "static/media/account-details.842ae16a.png": "/static/media/account-details.842ae16a.png",
     "static/media/account-menu-banner.2c90563d.png": "/static/media/account-menu-banner.2c90563d.png",
@@ -171,6 +171,7 @@
     "static/media/international-women-s-day-appbar-tile.35ca251e.svg": "/static/media/international-women-s-day-appbar-tile.35ca251e.svg",
     "static/media/international-women-s-day-banner.c31821f9.svg": "/static/media/international-women-s-day-banner.c31821f9.svg",
     "static/media/internationalization.4debf12e.svg": "/static/media/internationalization.4debf12e.svg",
+    "static/media/intro-to-figma-resources.cdf836ba.svg": "/static/media/intro-to-figma-resources.cdf836ba.svg",
     "static/media/invite-to-landscape-countdown.44f5cc4b.gif": "/static/media/invite-to-landscape-countdown.44f5cc4b.gif",
     "static/media/invite-to-landscape-x.687cf278.png": "/static/media/invite-to-landscape-x.687cf278.png",
     "static/media/joao-mota.85792714.jpg": "/static/media/joao-mota.85792714.jpg",
@@ -378,8 +379,8 @@
   "entrypoints": [
     "static/js/runtime-main.58bb364f.js",
     "static/css/2.e7e429ac.chunk.css",
-    "static/js/2.d7afcc18.chunk.js",
+    "static/js/2.ad03bbcf.chunk.js",
     "static/css/main.158eb0af.chunk.css",
-    "static/js/main.af984626.chunk.js"
+    "static/js/main.5331b4de.chunk.js"
   ]
 }
