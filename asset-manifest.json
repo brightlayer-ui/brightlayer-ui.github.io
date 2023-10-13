@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.72883b89.css",
-    "main.js": "/static/js/main.49dcd04a.js",
+    "main.js": "/static/js/main.67868219.js",
     "static/js/529.bddedf68.chunk.js": "/static/js/529.bddedf68.chunk.js",
     "static/media/persistent-drawer-hover.gif": "/static/media/persistent-drawer-hover.3e5d5739d31fbf377740.gif",
     "static/media/independence-day-bg.png": "/static/media/independence-day-bg.c13e0939d12fa883fad3.png",
@@ -460,7 +460,9 @@
     "static/media/background-gradient-2.png": "/static/media/background-gradient-2.227a234a88629d219e90.png",
     "static/media/disabled-1.png": "/static/media/disabled-1.bea9ced3de4ce87691df.png",
     "static/media/empty-state-desktop.png": "/static/media/empty-state-desktop.0a6d4b862df5461c4c0f.png",
+    "static/media/arshdeep-singh.jpg": "/static/media/arshdeep-singh.63f74a3ea10c6d17a598.jpg",
     "static/media/joseph-boyle.png": "/static/media/joseph-boyle.0cfd0242bec1ca696377.png",
+    "static/media/aubrey-thompson.jpg": "/static/media/aubrey-thompson.f3330ee4cf8cb6598633.jpg",
     "static/media/spec-regular-2.svg": "/static/media/spec-regular-2.5a86d544815049898073a7e21b654d32.svg",
     "static/media/spec-regular-3.svg": "/static/media/spec-regular-3.4c69a08f7530d5d489e51301a5b38ed0.svg",
     "static/media/implicit-value-list-2.png": "/static/media/implicit-value-list-2.5f9d31460284bea348de.png",
@@ -626,11 +628,11 @@
     "static/media/warning-two-color-light.svg": "/static/media/warning-two-color-light.6c44bafbf67b83fed176a8ed1d26c939.svg",
     "static/media/warning-two-color-dark.svg": "/static/media/warning-two-color-dark.b1b1ee9cc2a33b4027ed548ba280f1c9.svg",
     "main.72883b89.css.map": "/static/css/main.72883b89.css.map",
-    "main.49dcd04a.js.map": "/static/js/main.49dcd04a.js.map",
+    "main.67868219.js.map": "/static/js/main.67868219.js.map",
     "529.bddedf68.chunk.js.map": "/static/js/529.bddedf68.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.72883b89.css",
-    "static/js/main.49dcd04a.js"
+    "static/js/main.67868219.js"
   ]
 }
