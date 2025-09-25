@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.c5d04a6a.css",
-    "main.js": "/static/js/main.0546ecb1.js",
+    "main.js": "/static/js/main.a89ccb76.js",
     "static/js/415.2f2f4431.chunk.js": "/static/js/415.2f2f4431.chunk.js",
     "static/media/persistent-drawer-hover.gif": "/static/media/persistent-drawer-hover.3e5d5739d31fbf377740.gif",
     "static/media/independence-day-bg.png": "/static/media/independence-day-bg.c13e0939d12fa883fad3.png",
@@ -39,6 +39,7 @@
     "static/media/hanukkah-banner.png": "/static/media/hanukkah-banner.cedd62052adda6bf4950.png",
     "static/media/dismiss-keyboard-error-text.gif": "/static/media/dismiss-keyboard-error-text.78323ebed5e7776f7646.gif",
     "static/media/light-theme-example.png": "/static/media/light-theme-example.8db8d002fff7fa7d5ec0.png",
+    "static/media/bems.png": "/static/media/bems.a99fb1276c6ea573ec7e.png",
     "static/media/what-to-hide-on-collapse.png": "/static/media/what-to-hide-on-collapse.7fc2d982b964e56195cd.png",
     "static/media/collapsible-app-bar-2.png": "/static/media/collapsible-app-bar-2.123238b6206230214402.png",
     "static/media/collapsible-app-bar-1.png": "/static/media/collapsible-app-bar-1.47af9cc066850be4a89e.png",
@@ -808,11 +809,11 @@
     "static/media/codeicon.svg": "/static/media/codeicon.ac7596dd5bf8aca531b54f108f0ce533.svg",
     "static/media/developicon.svg": "/static/media/developicon.fc5a779dd79d0acb5e82a50c2c901b40.svg",
     "main.c5d04a6a.css.map": "/static/css/main.c5d04a6a.css.map",
-    "main.0546ecb1.js.map": "/static/js/main.0546ecb1.js.map",
+    "main.a89ccb76.js.map": "/static/js/main.a89ccb76.js.map",
     "415.2f2f4431.chunk.js.map": "/static/js/415.2f2f4431.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c5d04a6a.css",
-    "static/js/main.0546ecb1.js"
+    "static/js/main.a89ccb76.js"
   ]
 }
