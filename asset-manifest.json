@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.c5d04a6a.css",
-    "main.js": "/static/js/main.a89ccb76.js",
+    "main.js": "/static/js/main.821c56e0.js",
     "static/js/415.2f2f4431.chunk.js": "/static/js/415.2f2f4431.chunk.js",
     "static/media/persistent-drawer-hover.gif": "/static/media/persistent-drawer-hover.3e5d5739d31fbf377740.gif",
     "static/media/independence-day-bg.png": "/static/media/independence-day-bg.c13e0939d12fa883fad3.png",
@@ -178,7 +178,6 @@
     "static/media/top-severity.png": "/static/media/top-severity.6ce1a360cf46e86d6def.png",
     "static/media/fab-mobile-2.png": "/static/media/fab-mobile-2.52bb0390221053a2ce23.png",
     "static/media/low-severity.png": "/static/media/low-severity.aa4cb63f25768b1d2b90.png",
-    "static/media/verbiage-excitement.png": "/static/media/verbiage-excitement.372e19503e610165927a.png",
     "static/media/safe-area-error.png": "/static/media/safe-area-error.f9c1aa033c75002561bf.png",
     "static/media/forgot-password-confirm.png": "/static/media/forgot-password-confirm.f05bec811828227e4096.png",
     "static/media/submit-button-auto-submit.png": "/static/media/submit-button-auto-submit.5a9edbf39cd553704eb0.png",
@@ -347,6 +346,7 @@
     "static/media/castles.svg": "/static/media/castles.30765c0e269b2a6cb79b302a2d3a8a3c.svg",
     "static/media/hanukkah-appbar-tile.png": "/static/media/hanukkah-appbar-tile.f73f684523d75898fdd3.png",
     "static/media/icon-button-app-bar.png": "/static/media/icon-button-app-bar.0bd2d396a0387318d83a.png",
+    "static/media/verbiage-excitement.png": "/static/media/verbiage-excitement.db609ff07d53e1085505.png",
     "static/media/glyph-1.png": "/static/media/glyph-1.002ee49e14d4c3c1fd7d.png",
     "static/media/confused-hamburger.png": "/static/media/confused-hamburger.8d52068d294dd06df92c.png",
     "static/media/device-icon-2.png": "/static/media/device-icon-2.8bab0876a7a803d484bd.png",
@@ -809,11 +809,11 @@
     "static/media/codeicon.svg": "/static/media/codeicon.ac7596dd5bf8aca531b54f108f0ce533.svg",
     "static/media/developicon.svg": "/static/media/developicon.fc5a779dd79d0acb5e82a50c2c901b40.svg",
     "main.c5d04a6a.css.map": "/static/css/main.c5d04a6a.css.map",
-    "main.a89ccb76.js.map": "/static/js/main.a89ccb76.js.map",
+    "main.821c56e0.js.map": "/static/js/main.821c56e0.js.map",
     "415.2f2f4431.chunk.js.map": "/static/js/415.2f2f4431.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c5d04a6a.css",
-    "static/js/main.a89ccb76.js"
+    "static/js/main.821c56e0.js"
   ]
 }
