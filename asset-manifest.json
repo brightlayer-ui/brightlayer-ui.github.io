@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.c5d04a6a.css",
-    "main.js": "/static/js/main.821c56e0.js",
+    "main.js": "/static/js/main.ecd3a373.js",
     "static/js/415.2f2f4431.chunk.js": "/static/js/415.2f2f4431.chunk.js",
     "static/media/persistent-drawer-hover.gif": "/static/media/persistent-drawer-hover.3e5d5739d31fbf377740.gif",
     "static/media/independence-day-bg.png": "/static/media/independence-day-bg.c13e0939d12fa883fad3.png",
@@ -81,6 +81,7 @@
     "static/media/logo-guidelines.png": "/static/media/logo-guidelines.850bf82eab6376e1d616.png",
     "static/media/drawer-do-and-dont-1.png": "/static/media/drawer-do-and-dont-1.91664bdb9a1da17ecc6a.png",
     "static/media/scorecard-variations.png": "/static/media/scorecard-variations.91713e5217ccf44be9d0.png",
+    "static/media/charge-central.png": "/static/media/charge-central.0ac3e7b623b84d528efc.png",
     "static/media/login-desktop.png": "/static/media/login-desktop.ed9d6001e51f129ffdbf.png",
     "static/media/email-communication-invitation.png": "/static/media/email-communication-invitation.d1783729309d43e8b840.png",
     "static/media/accept-eula.png": "/static/media/accept-eula.e61482fe1b3d2c87a76d.png",
@@ -246,10 +247,12 @@
     "static/media/icon.png": "/static/media/icon.e3d116d3cfd5925a8f00.png",
     "static/media/language-options.png": "/static/media/language-options.a93b8b3b7ef7206be84a.png",
     "static/media/spec-typography-mobile.png": "/static/media/spec-typography-mobile.c57be00266efd6a97477.png",
+    "static/media/grid_solution.png": "/static/media/grid_solution.f01dea6dd70c037d3dfb.png",
     "static/media/illustration-industrial.png": "/static/media/illustration-industrial.43d0976c7ed34e25d86e.png",
     "static/media/by-designers.webp": "/static/media/by-designers.dd64e4e3c49a73503d1e.webp",
     "static/media/ipm.png": "/static/media/ipm.e28dbb101406dd707334.png",
     "static/media/dialog-box-5.svg": "/static/media/dialog-box-5.2cd892f9fc8ca73114ce6feca7be2bf4.svg",
+    "static/media/diwali-appbar-tile.png": "/static/media/diwali-appbar-tile.c7d91ec730ef69e1a422.png",
     "static/media/navigation-rail.png": "/static/media/navigation-rail.dd3c2fbad5bff2b9575e.png",
     "static/media/desktop-trend-legend.png": "/static/media/desktop-trend-legend.4a7aedcd8d932ae35207.png",
     "static/media/spec-1.png": "/static/media/spec-1.3f933c727413413f4d99.png",
@@ -809,11 +812,11 @@
     "static/media/codeicon.svg": "/static/media/codeicon.ac7596dd5bf8aca531b54f108f0ce533.svg",
     "static/media/developicon.svg": "/static/media/developicon.fc5a779dd79d0acb5e82a50c2c901b40.svg",
     "main.c5d04a6a.css.map": "/static/css/main.c5d04a6a.css.map",
-    "main.821c56e0.js.map": "/static/js/main.821c56e0.js.map",
+    "main.ecd3a373.js.map": "/static/js/main.ecd3a373.js.map",
     "415.2f2f4431.chunk.js.map": "/static/js/415.2f2f4431.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c5d04a6a.css",
-    "static/js/main.821c56e0.js"
+    "static/js/main.ecd3a373.js"
   ]
 }
