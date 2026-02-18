@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.c5d04a6a.css",
-    "main.js": "/static/js/main.ecd3a373.js",
-    "static/js/415.2f2f4431.chunk.js": "/static/js/415.2f2f4431.chunk.js",
+    "main.js": "/static/js/main.db34ae27.js",
+    "static/js/415.360b06b4.chunk.js": "/static/js/415.360b06b4.chunk.js",
     "static/media/persistent-drawer-hover.gif": "/static/media/persistent-drawer-hover.3e5d5739d31fbf377740.gif",
     "static/media/independence-day-bg.png": "/static/media/independence-day-bg.c13e0939d12fa883fad3.png",
     "static/media/suraj-karambe.png": "/static/media/suraj-karambe.d1fa8608f096c13e949e.png",
@@ -55,7 +55,6 @@
     "static/media/design-perceivable.png": "/static/media/design-perceivable.3e08933fe886ed09a878.png",
     "static/media/table-cell-image.png": "/static/media/table-cell-image.dd765fd64526776bf80b.png",
     "static/media/specs-6.png": "/static/media/specs-6.4c52f8f796fe09f3b9fc.png",
-    "static/media/anatomy.png": "/static/media/anatomy.8d973e3f9616bb187d02.png",
     "static/media/image-app-bar.png": "/static/media/image-app-bar.a6af03239d7bd82134a9.png",
     "static/media/substraction-animation.gif": "/static/media/substraction-animation.466583f1415f8329b52a.gif",
     "static/media/collapsible.png": "/static/media/collapsible.ff100166f71f13a97e4e.png",
@@ -91,6 +90,7 @@
     "static/media/grade.png": "/static/media/grade.f23f30c067bb0e3ca459.png",
     "static/media/ev-charger-manager.png": "/static/media/ev-charger-manager.96e676d67d4ea3c3555a.png",
     "static/media/email-communication-verification.png": "/static/media/email-communication-verification.0738c7596866cd211a74.png",
+    "static/media/anatomy.png": "/static/media/anatomy.8d973e3f9616bb187d02.png",
     "static/media/mobile-inf-scroll.png": "/static/media/mobile-inf-scroll.220c7a025e266eab0fa7.png",
     "static/media/invite-to-landscape-x.png": "/static/media/invite-to-landscape-x.687cf278c4d0d6fb9bcf.png",
     "static/media/dark-theme-colors.png": "/static/media/dark-theme-colors.02f446e5c9b57d6a6e96.png",
@@ -170,7 +170,6 @@
     "static/media/expired.png": "/static/media/expired.fbe613af92fc79d72373.png",
     "static/media/illustration-consumer.png": "/static/media/illustration-consumer.9e7b610a5d446d0c93b5.png",
     "static/media/verbiage-neutral.png": "/static/media/verbiage-neutral.a7e5c2a7365a1bd5efd0.png",
-    "static/media/navigation-persistent.png": "/static/media/navigation-persistent.7972a0312c51f633e008.png",
     "static/media/overline.png": "/static/media/overline.8436836762cbe8f51038.png",
     "static/media/long-form.png": "/static/media/long-form.bc3c9b9fee50faa19c38.png",
     "static/media/avatar-variants.png": "/static/media/avatar-variants.525d0ae1dae6379feca2.png",
@@ -202,7 +201,6 @@
     "static/media/enter-email-address.png": "/static/media/enter-email-address.2a55a85cf3f240b73d96.png",
     "static/media/additional-report.png": "/static/media/additional-report.11ec2fcbfe26c73069b7.png",
     "static/media/account-settings-page.png": "/static/media/account-settings-page.adba38914217fd3a51a4.png",
-    "static/media/submit-button-on-change.png": "/static/media/submit-button-on-change.c86bbc5459aa1ff12bf6.png",
     "static/media/dialog-box-4.svg": "/static/media/dialog-box-4.53df901cd5c93d0055216f2c878f64ff.svg",
     "static/media/high-severity.png": "/static/media/high-severity.e22f1963b937f7eab9a9.png",
     "static/media/channel-value.png": "/static/media/channel-value.6d1c4195b7042cfda85c.png",
@@ -214,7 +212,6 @@
     "static/media/chip.png": "/static/media/chip.a8bdbde691f817f3e618.png",
     "static/media/bli.png": "/static/media/bli.5e1aa02a130525460b4c.png",
     "static/media/navigation-tabs.png": "/static/media/navigation-tabs.26513b46c860cd464f0c.png",
-    "static/media/submit-button-on-click.png": "/static/media/submit-button-on-click.e68bf3cfa95c5bec0559.png",
     "static/media/in-timestamp.png": "/static/media/in-timestamp.66a46a67cca316a7094c.png",
     "static/media/specs-2.png": "/static/media/specs-2.539a9049f721c43df6d6.png",
     "static/media/empty-state.png": "/static/media/empty-state.169352d00ed2c973cb45.png",
@@ -486,7 +483,6 @@
     "static/media/open-sans-latin-600-italic.woff": "/static/media/open-sans-latin-600-italic.d85706d41f686252d990.woff",
     "static/media/column-order-1.png": "/static/media/column-order-1.0f6d3f0792d4d5a9f8b1.png",
     "static/media/open-sans-math-700-normal.woff": "/static/media/open-sans-math-700-normal.5d9acecc99576a32cfae.woff",
-    "static/media/mini-search.png": "/static/media/mini-search.d282730f2a56835471ea.png",
     "static/media/open-sans-latin-800-italic.woff": "/static/media/open-sans-latin-800-italic.887a02039162a7df273a.woff",
     "static/media/no-line-acc-data.png": "/static/media/no-line-acc-data.5922c510e62fe023dc96.png",
     "static/media/open-sans-cyrillic-ext-300-italic.woff": "/static/media/open-sans-cyrillic-ext-300-italic.5d31421d387f92ffc3eb.woff",
@@ -596,12 +592,10 @@
     "static/media/open-sans-cyrillic-800-italic.woff2": "/static/media/open-sans-cyrillic-800-italic.bb6780349555dde8ab93.woff2",
     "static/media/roboto-mono-latin-ext-400-normal.woff": "/static/media/roboto-mono-latin-ext-400-normal.63bf87869da74e6e01e2.woff",
     "static/media/roboto-mono-latin-ext-700-normal.woff": "/static/media/roboto-mono-latin-ext-700-normal.cecdc8fa943415cfad0f.woff",
-    "static/media/click-area-2.png": "/static/media/click-area-2.f83dcf0ea82087045461.png",
     "static/media/limit-categories.png": "/static/media/limit-categories.6e709da4e8e7457d0aba.png",
     "static/media/colorpallette.png": "/static/media/colorpallette.c71bd53c9106f1e85b44.png",
     "static/media/feedback.png": "/static/media/feedback.91d281a3657047a833a8.png",
     "static/media/straightbars.png": "/static/media/straightbars.75a11676a7f3c6db0f8b.png",
-    "static/media/click-area-1.png": "/static/media/click-area-1.5260ab7f3e8bf8b3da2f.png",
     "static/media/table-cell-text-field.png": "/static/media/table-cell-text-field.0d574c9441d9199ddd82.png",
     "static/media/kwanzaa-banner.png": "/static/media/kwanzaa-banner.12ec18378ec21c539289.png",
     "static/media/dark-theme.svg": "/static/media/dark-theme.e8ef4f7d01afa26db34a9b1f39f9a7f8.svg",
@@ -812,11 +806,11 @@
     "static/media/codeicon.svg": "/static/media/codeicon.ac7596dd5bf8aca531b54f108f0ce533.svg",
     "static/media/developicon.svg": "/static/media/developicon.fc5a779dd79d0acb5e82a50c2c901b40.svg",
     "main.c5d04a6a.css.map": "/static/css/main.c5d04a6a.css.map",
-    "main.ecd3a373.js.map": "/static/js/main.ecd3a373.js.map",
-    "415.2f2f4431.chunk.js.map": "/static/js/415.2f2f4431.chunk.js.map"
+    "main.db34ae27.js.map": "/static/js/main.db34ae27.js.map",
+    "415.360b06b4.chunk.js.map": "/static/js/415.360b06b4.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c5d04a6a.css",
-    "static/js/main.ecd3a373.js"
+    "static/js/main.db34ae27.js"
   ]
 }
