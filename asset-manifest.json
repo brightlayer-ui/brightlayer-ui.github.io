@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.f0b42c11.css",
-    "main.js": "/static/js/main.ecf1b301.js",
+    "main.js": "/static/js/main.bd1fd7ba.js",
     "static/js/415.ef37301a.chunk.js": "/static/js/415.ef37301a.chunk.js",
     "static/media/persistent-drawer-hover.gif": "/static/media/persistent-drawer-hover.3e5d5739d31fbf377740.gif",
     "static/media/independence-day-bg.png": "/static/media/independence-day-bg.c13e0939d12fa883fad3.png",
@@ -26,6 +26,7 @@
     "static/media/international-women-s-day-banner.svg": "/static/media/international-women-s-day-banner.ecf96e973863dc05096bc32377914e3f.svg",
     "static/media/persistent-drawer-pitfall.gif": "/static/media/persistent-drawer-pitfall.653c21057f12f8c4da53.gif",
     "static/media/christmas-eve.png": "/static/media/christmas-eve.4077e3aaee53abd9419b.png",
+    "static/media/image-annotator.png": "/static/media/image-annotator.d05ddb031330abfddd19.png",
     "static/media/hover-actions.gif": "/static/media/hover-actions.8a9dc3645ef7ce922816.gif",
     "static/media/st-patricks-day-banner.png": "/static/media/st-patricks-day-banner.b78cd9fec53d09067f76.png",
     "static/media/verify-on-submit.gif": "/static/media/verify-on-submit.5e7f3281c754c5ee934e.gif",
@@ -34,6 +35,7 @@
     "static/media/invite-to-landscape-countdown.gif": "/static/media/invite-to-landscape-countdown.44f5cc4b9237be8129b3.gif",
     "static/media/diwali-banner.jpg": "/static/media/diwali-banner.de1259064233e7029716.jpg",
     "static/media/addition-animation.gif": "/static/media/addition-animation.7f6c7ff114c9fe10a4b3.gif",
+    "static/media/transparent-app-bar-usage.jpg": "/static/media/transparent-app-bar-usage.e55881d0aed104275f0a.jpg",
     "static/media/advanced-table-filter.gif": "/static/media/advanced-table-filter.82e72ddf87a8744ade2b.gif",
     "static/media/skeleton.gif": "/static/media/skeleton.5444edd9c06da41f084e.gif",
     "static/media/table-stacked-as-list.gif": "/static/media/table-stacked-as-list.2529a457a1e4f3578133.gif",
@@ -209,6 +211,7 @@
     "static/media/dont-distract.png": "/static/media/dont-distract.30bd32cf3e6c85824862.png",
     "static/media/fab-mobile-1.png": "/static/media/fab-mobile-1.67074d263416ce3ec1a3.png",
     "static/media/in-alarms.png": "/static/media/in-alarms.01d1f20424347860ce03.png",
+    "static/media/transparent-app-bar-variants.png": "/static/media/transparent-app-bar-variants.57c4805d3756a46ba6a5.png",
     "static/media/enter-email-address.png": "/static/media/enter-email-address.2a55a85cf3f240b73d96.png",
     "static/media/additional-report.png": "/static/media/additional-report.11ec2fcbfe26c73069b7.png",
     "static/media/account-settings-page.png": "/static/media/account-settings-page.adba38914217fd3a51a4.png",
@@ -233,6 +236,7 @@
     "static/media/datagranularity.png": "/static/media/datagranularity.85667e87fd80b8b3eb13.png",
     "static/media/navigation-rail-labels.png": "/static/media/navigation-rail-labels.725171b3b32151d79f32.png",
     "static/media/spec-pagination.png": "/static/media/spec-pagination.120f0c457a9500000e99.png",
+    "static/media/nancy_zhu.png": "/static/media/nancy_zhu.0efce01153169833cbf3.png",
     "static/media/list-color-correct.png": "/static/media/list-color-correct.274e42aed62bca36888d.png",
     "static/media/powerBI.png": "/static/media/powerBI.b99bed10e082d2e973e1.png",
     "static/media/dropdown-toolbar-variations-2.png": "/static/media/dropdown-toolbar-variations-2.97ac25d6c52cb946b772.png",
@@ -268,6 +272,7 @@
     "static/media/desktop-trend-legend.png": "/static/media/desktop-trend-legend.4a7aedcd8d932ae35207.png",
     "static/media/spec-1.png": "/static/media/spec-1.3f933c727413413f4d99.png",
     "static/media/gauge-bp-infomark.png": "/static/media/gauge-bp-infomark.1e6e411dfa56be926c94.png",
+    "static/media/shawn_tong.png": "/static/media/shawn_tong.917953b3464fd8c0a6f7.png",
     "static/media/dialog-box-1.svg": "/static/media/dialog-box-1.d0a264b5db38f7c1cbdce89ce74b33c0.svg",
     "static/media/navigation-bottom.png": "/static/media/navigation-bottom.fbc44a28499804b80e74.png",
     "static/media/gauge-infomark-thumb.png": "/static/media/gauge-infomark-thumb.8d79448bfbf050454006.png",
@@ -303,6 +308,7 @@
     "static/media/horizontal-scroll-bar.png": "/static/media/horizontal-scroll-bar.2d5199ae93695e33294b.png",
     "static/media/multi-tag-tag-shifting-do.png": "/static/media/multi-tag-tag-shifting-do.156be9a4a55d4c3ad6fb.png",
     "static/media/multi-tag-tag-shifting-dont.png": "/static/media/multi-tag-tag-shifting-dont.189fffdb896deb21b969.png",
+    "static/media/sayuu_gao.png": "/static/media/sayuu_gao.2d88fda82a3e653efd8b.png",
     "static/media/data-relationships-2.png": "/static/media/data-relationships-2.7ac5857514dcd32473ed.png",
     "static/media/error-states-2.png": "/static/media/error-states-2.19df12961b3d542369b3.png",
     "static/media/emphasis-same-style-2.png": "/static/media/emphasis-same-style-2.b9f3a5fb939b611ee4b6.png",
@@ -336,6 +342,7 @@
     "static/media/spec-size.png": "/static/media/spec-size.9dd96ea0b440739868a1.png",
     "static/media/icon-align-3.png": "/static/media/icon-align-3.1f6f58ce1accb296778c.png",
     "static/media/page-body-table.png": "/static/media/page-body-table.c74c007e577da6ed6c4d.png",
+    "static/media/keith_hartman.png": "/static/media/keith_hartman.2cc230c858ae24ac32c3.png",
     "static/media/button-width.png": "/static/media/button-width.56a80019c182fd7ba085.png",
     "static/media/green-motion-ev-charger.jpg": "/static/media/green-motion-ev-charger.dfdb2197fc9ea497958e.jpg",
     "static/media/educational-2.png": "/static/media/educational-2.c49421973e59229c2ada.png",
@@ -346,6 +353,7 @@
     "static/media/navigation-tabs-specs.png": "/static/media/navigation-tabs-specs.02184ff3bbf8f0341710.png",
     "static/media/table-cell-underlined-field.png": "/static/media/table-cell-underlined-field.97ff1a94a7dba74f7459.png",
     "static/media/error-states-3.png": "/static/media/error-states-3.d1527133c47341bf0b63.png",
+    "static/media/damini_sheth.png": "/static/media/damini_sheth.e54fd7091d037c8f3200.png",
     "static/media/good-tag.png": "/static/media/good-tag.ae08b0a21f49a53756fb.png",
     "static/media/place-cancel.png": "/static/media/place-cancel.60359aa1d98675c00e3c.png",
     "static/media/polish-glyph-1.png": "/static/media/polish-glyph-1.6bda291963554ab4592a.png",
@@ -361,6 +369,7 @@
     "static/media/specs-3.png": "/static/media/specs-3.dc487fe7b1554d30f896.png",
     "static/media/multi-tag-wrap.png": "/static/media/multi-tag-wrap.5b8c082c63f3357205d4.png",
     "static/media/subtitle-variations.png": "/static/media/subtitle-variations.3870d60a99fa22f08470.png",
+    "static/media/transparent-app-bar-overlay.png": "/static/media/transparent-app-bar-overlay.ecff0607e474589c0e4b.png",
     "static/media/toggle-text.png": "/static/media/toggle-text.96bf92bf5968d4b4132b.png",
     "static/media/toggle-icon.png": "/static/media/toggle-icon.33d8f2e1596c8c398352.png",
     "static/media/castles.svg": "/static/media/castles.30765c0e269b2a6cb79b302a2d3a8a3c.svg",
@@ -409,6 +418,7 @@
     "static/media/active-round.png": "/static/media/active-round.d884f8d53b6c18eececf.png",
     "static/media/in-tables.png": "/static/media/in-tables.83d9fe6a7a70370f4b03.png",
     "static/media/icon-variation-nav-item-1.png": "/static/media/icon-variation-nav-item-1.b12b418e3af7d7498448.png",
+    "static/media/nannan.png": "/static/media/nannan.dd9a262905ffc55ecb78.png",
     "static/media/educational-1.png": "/static/media/educational-1.cbee472abe1433b37450.png",
     "static/media/filter-3.png": "/static/media/filter-3.904b589c75279147f379.png",
     "static/media/polish-glyph-2.png": "/static/media/polish-glyph-2.c0bb44c17e6b12dc62cb.png",
@@ -828,11 +838,11 @@
     "static/media/warning-two-color-dark.svg": "/static/media/warning-two-color-dark.b1b1ee9cc2a33b4027ed548ba280f1c9.svg",
     "static/media/developicon.svg": "/static/media/developicon.fc5a779dd79d0acb5e82a50c2c901b40.svg",
     "main.f0b42c11.css.map": "/static/css/main.f0b42c11.css.map",
-    "main.ecf1b301.js.map": "/static/js/main.ecf1b301.js.map",
+    "main.bd1fd7ba.js.map": "/static/js/main.bd1fd7ba.js.map",
     "415.ef37301a.chunk.js.map": "/static/js/415.ef37301a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f0b42c11.css",
-    "static/js/main.ecf1b301.js"
+    "static/js/main.bd1fd7ba.js"
   ]
 }
